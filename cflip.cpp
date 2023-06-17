@@ -26,7 +26,7 @@
             }
             else
             {
-                std:: cout << "Crosses!" << std:: endl;
+                std:: cout << "Tails!" << std:: endl;
                     hr = 0;
             } 
         }
