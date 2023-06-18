@@ -1,2 +1,2 @@
 # coinflipper
-projeto pessoal para treinar probabilidade e análise combinatória
+projeto pessoal para treinar probabilidade, análise combinatória e multi-threading
